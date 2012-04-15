@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheStartingPoint", "TheStar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheStartingPoint.Tests", "TheStartingPoint.Tests\TheStartingPoint.Tests.csproj", "{7C2D4970-83D1-4CE5-8531-750E34634784}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringCatalog", "RefactoringCatalog\RefactoringCatalog.csproj", "{465573E4-10AC-4680-8EDC-B45E7B9B5D2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringCatalogTests", "RefactoringCatalogTests\RefactoringCatalogTests.csproj", "{3922BF4A-75BB-4436-BC13-84AAC0DC6C17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,14 @@ Global
 		{7C2D4970-83D1-4CE5-8531-750E34634784}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C2D4970-83D1-4CE5-8531-750E34634784}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C2D4970-83D1-4CE5-8531-750E34634784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465573E4-10AC-4680-8EDC-B45E7B9B5D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465573E4-10AC-4680-8EDC-B45E7B9B5D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465573E4-10AC-4680-8EDC-B45E7B9B5D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465573E4-10AC-4680-8EDC-B45E7B9B5D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3922BF4A-75BB-4436-BC13-84AAC0DC6C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3922BF4A-75BB-4436-BC13-84AAC0DC6C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3922BF4A-75BB-4436-BC13-84AAC0DC6C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3922BF4A-75BB-4436-BC13-84AAC0DC6C17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
