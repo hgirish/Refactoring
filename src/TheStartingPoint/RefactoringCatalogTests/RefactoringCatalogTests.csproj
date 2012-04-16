@@ -43,9 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MoveMethodAccountTests.cs" />
     <Compile Include="PassByReferenceOrValueTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReplaceMethodWithMethodObjectTests.cs" />
     <Compile Include="SplitTemporaryVaribleTests.cs" />
+    <Compile Include="SubstituteAlgorithmTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\RefactoringCatalog\RefactoringCatalog.csproj">
